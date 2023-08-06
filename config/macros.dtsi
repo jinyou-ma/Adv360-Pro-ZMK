@@ -1,9 +1,3 @@
-macro_last_option: macro_last_option{
-compatible = "zmk,behavior-macro";
-label = "macro_last_option";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_sudo: macro_sudo{
 compatible = "zmk,behavior-macro";
 label = "macro_sudo";
