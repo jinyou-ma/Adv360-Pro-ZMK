@@ -1,9 +1,3 @@
-macro_ego: macro_ego{
-compatible = "zmk,behavior-macro";
-label = "macro_ego";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_sudo: macro_sudo{
 compatible = "zmk,behavior-macro";
 label = "macro_sudo";
